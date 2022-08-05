@@ -23,6 +23,7 @@
     - 輸入about page input 更新畫面, 假裝打api的console也會是在client side
 - npm run dev
 - ref: https://nextjs.org/docs/getting-started
+- HackMD: https://hackmd.io/mVR81Dn3TGWkCNRBGYfsIQ?view
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
