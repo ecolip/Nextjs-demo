@@ -1,0 +1,12 @@
+.userContainer {
+  text-align: center;
+}
+.user {
+  padding-bottom: 30px;
+}
+.userContainer h4{
+  margin: 0;
+}
+.userContainer p {
+  margin: 0;
+}
